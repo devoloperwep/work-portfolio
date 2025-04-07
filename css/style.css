@@ -77,12 +77,6 @@ main {
   padding-bottom: 80px;
 }
 
-.portfolio {
-}
-.portfolio__container {
-}
-.container {
-}
 .portfolio__list {
   display: flex;
   flex-direction: column;
@@ -119,14 +113,6 @@ main {
 }
 .portfolio__link {
   font-size: 18px;
-}
-.fa-brands {
-}
-.fa-github {
-}
-.fa-solid {
-}
-.fa-link {
 }
 
 .header__title {
