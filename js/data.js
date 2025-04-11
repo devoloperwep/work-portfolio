@@ -1,5 +1,20 @@
 export default [
   {
+    title: "mashina brands",
+    github: "https://github.com/devoloperwep/mashina-brands",
+    vercel: "https://mashina-brands.vercel.app/",
+  },
+  {
+    title: "mobil brends",
+    github: "https://github.com/devoloperwep/phone-brend",
+    vercel: "https://phone-brend.vercel.app/",
+  },
+  {
+    title: "watch brends",
+    github: "https://github.com/devoloperwep/watch",
+    vercel: "https://watch-ten-rho.vercel.app/",
+  },
+  {
     title: "intro-section-with-dropdown-navigation",
     github: "https://github.com/devoloperwep/intro-section",
     vercel: "https://intro-section-flame-gamma.vercel.app/",
