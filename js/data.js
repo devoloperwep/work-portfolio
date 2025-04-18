@@ -1,5 +1,20 @@
 export default [
   {
+    title: "intro section",
+    github: "https://github.com/devoloperwep/2.11-dars-3",
+    vercel: "https://2-11-dars-3.vercel.app/",
+  },
+  {
+    title: "Contact Us",
+    github: "https://github.com/devoloperwep/2.11-dars-2",
+    vercel: "https://2-11-dars-2.vercel.app/",
+  },
+  {
+    title: "food",
+    github: "https://github.com/devoloperwep/2.11-dars-1",
+    vercel: "https://2-11-dars-1.vercel.app/",
+  },
+  {
     title: "Your Adventure Begins Here!",
     github: "https://github.com/devoloperwep/bg-video",
     vercel: "https://background-video-orcin.vercel.app/",
