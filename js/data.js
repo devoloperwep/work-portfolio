@@ -1,5 +1,10 @@
 export default [
   {
+    title: "My Team",
+    github: "https://github.com/devoloperwep/2.12-vazifa",
+    vercel: "https://2-12-vazifa.vercel.app/pages/about.html",
+  },
+  {
     title: "intro section",
     github: "https://github.com/devoloperwep/2.11-dars-3",
     vercel: "https://2-11-dars-3.vercel.app/",
