@@ -1,5 +1,10 @@
 export default [
   {
+    title: "My Team Full",
+    github: "https://github.com/devoloperwep/3.2-dars",
+    vercel: "https://3-2-dars-one.vercel.app/",
+  },
+  {
     title: "My Team",
     github: "https://github.com/devoloperwep/2.12-vazifa",
     vercel: "https://2-12-vazifa.vercel.app/pages/about.html",
