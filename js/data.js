@@ -2,7 +2,7 @@ export default [
   {
     title: "coffeeroasters",
     github: "https://github.com/devoloperwep/3.3-dars",
-    vercel: "https://vercel.com/devoloperweps-projects/3-3-dars",
+    vercel: "https://3-3-dars-rouge.vercel.app/",
   },
   {
     title: "My Team Full",
