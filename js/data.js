@@ -5,11 +5,6 @@ export default [
     vercel: "https://animation-10-iota.vercel.app/",
   },
   {
-    title: "Animation 10",
-    github: "https://github.com/devoloperwep/3.3-animation",
-    vercel: "https://3-3-animation.vercel.app/",
-  },
-  {
     title: "coffeeroasters",
     github: "https://github.com/devoloperwep/3.3-dars",
     vercel: "https://3-3-dars-rouge.vercel.app/",
