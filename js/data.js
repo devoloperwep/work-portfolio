@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Animation 10 new",
+    github: "https://github.com/devoloperwep/animation",
+    vercel: "https://animation-10-iota.vercel.app/",
+  },
+  {
     title: "Animation 10",
     github: "https://github.com/devoloperwep/3.3-animation",
     vercel: "https://3-3-animation.vercel.app/",
