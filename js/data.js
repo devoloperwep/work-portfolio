@@ -1,5 +1,10 @@
 export default [
   {
+    title: "single-page-design-portfolio",
+    github: "https://github.com/devoloperwep/3.4-vazifa",
+    vercel: "https://3-4-vazifa-delta.vercel.app/",
+  },
+  {
     title: "Animation 10 new",
     github: "https://github.com/devoloperwep/animation",
     vercel: "https://animation-10-iota.vercel.app/",
