@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Namanganliklar 24",
+    github: "https://github.com/devoloperwep/namanganliklar24",
+    vercel: "https://namanganliklar24-gold.vercel.app/",
+  },
+  {
     title: "single-page-design-portfolio",
     github: "https://github.com/devoloperwep/3.4-vazifa",
     vercel: "https://3-4-vazifa-delta.vercel.app/",
