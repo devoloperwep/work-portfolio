@@ -1,5 +1,15 @@
 export default [
   {
+    title: "3.6-vazifa 2",
+    github: "https://github.com/devoloperwep/3.6-vazifa2",
+    vercel: "https://3-6-vazifa2.vercel.app/",
+  },
+  {
+    title: "3.6-vazifa 1",
+    github: "https://github.com/devoloperwep/3.6-vazifa1",
+    vercel: "https://3-6-vazifa1.vercel.app/",
+  },
+  {
     title: "Namanganliklar 24",
     github: "https://github.com/devoloperwep/namanganliklar24",
     vercel: "https://namanganliklar24-gold.vercel.app/",
