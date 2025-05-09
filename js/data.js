@@ -1,6 +1,11 @@
 export default [
   {
-    title: "3.7-vazifa",
+    title: "3.8-vazifa responsive figma",
+    github: "https://github.com/devoloperwep/3.8-vazifa",
+    vercel: "https://3-8-vazifa-one.vercel.app/",
+  },
+  {
+    title: "3.7-vazifa responsive figma",
     github: "https://github.com/devoloperwep/tech-book",
     vercel: "https://tech-book-one.vercel.app/",
   },
