@@ -1,5 +1,25 @@
 export default [
   {
+    title: "3.9-figma 1",
+    github: "https://github.com/devoloperwep/3.9-figma4",
+    vercel: "https://3-9-figma4.vercel.app/",
+  },
+  {
+    title: "3.9-figma 1",
+    github: "https://github.com/devoloperwep/3.9-figma3",
+    vercel: "https://3-9-figma3.vercel.app/",
+  },
+  {
+    title: "3.9-figma 2",
+    github: "https://github.com/devoloperwep/3.9-figma2",
+    vercel: "https://3-9-figma2.vercel.app/",
+  },
+  {
+    title: "3.9-figma 1",
+    github: "https://github.com/devoloperwep/3.9-figma1",
+    vercel: "https://3-9-figma1.vercel.app/",
+  },
+  {
     title: "3.8-vazifa responsive figma",
     github: "https://github.com/devoloperwep/3.8-vazifa",
     vercel: "https://3-8-vazifa-one.vercel.app/",
