@@ -1,11 +1,11 @@
 export default [
   {
-    title: "3.9-figma 1",
+    title: "3.9-figma 4",
     github: "https://github.com/devoloperwep/3.9-figma4",
     vercel: "https://3-9-figma4.vercel.app/",
   },
   {
-    title: "3.9-figma 1",
+    title: "3.9-figma 3",
     github: "https://github.com/devoloperwep/3.9-figma3",
     vercel: "https://3-9-figma3.vercel.app/",
   },
