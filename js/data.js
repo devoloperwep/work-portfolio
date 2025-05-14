@@ -1,5 +1,15 @@
 export default [
   {
+    title: "Insure",
+    github: "https://github.com/devoloperwep/insure",
+    vercel: "https://insure-sand-eight.vercel.app/",
+  },
+  {
+    title: "Sunnyside",
+    github: "https://github.com/devoloperwep/sunnyside",
+    vercel: "https://sunnyside-vert.vercel.app/",
+  },
+  {
     title: "3.9-figma 4",
     github: "https://github.com/devoloperwep/3.9-figma4",
     vercel: "https://3-9-figma4.vercel.app/",
