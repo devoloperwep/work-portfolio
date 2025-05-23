@@ -1,5 +1,10 @@
 export default [
   {
+    title: "",
+    github: "https://github.com/devoloperwep/4.2-vazifa/blob/main/app.js",
+    vercel: "#",
+  },
+  {
     title: "Insure",
     github: "https://github.com/devoloperwep/insure",
     vercel: "https://insure-sand-eight.vercel.app/",
