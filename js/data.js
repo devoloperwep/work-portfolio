@@ -1,6 +1,6 @@
 export default [
   {
-    title: "",
+    title: "4.2-vazifa",
     github: "https://github.com/devoloperwep/4.2-vazifa/blob/main/app.js",
     vercel: "#",
   },
