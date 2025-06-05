@@ -1,5 +1,10 @@
 export default [
   {
+    title: "4.8-vazifa",
+    github: "https://github.com/devoloperwep/4.8-vazifa",
+    vercel: "#",
+  },
+  {
     title: "4.6-vazifa",
     github: "https://github.com/devoloperwep/4.6-vazifa",
     vercel: "#",
