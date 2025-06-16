@@ -1,6 +1,11 @@
 export default [
   {
-    title: "4-oy EXAM",
+    title: "4-oy EXAM FIGMA",
+    github: "https://github.com/devoloperwep/4-oy-figma",
+    vercel: "https://4-oy-figma.vercel.app/",
+  },
+  {
+    title: "4-oy EXAM JS",
     github: "https://github.com/devoloperwep/4-oy.imtihon",
     vercel: "#",
   },
