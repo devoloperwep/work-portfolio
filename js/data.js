@@ -1,5 +1,10 @@
 export default [
   {
+    title: "4-oy EXAM",
+    github: "https://github.com/devoloperwep/4-oy.imtihon",
+    vercel: "#",
+  },
+  {
     title: "4.11-vazifa",
     github: "https://github.com/devoloperwep/4.11-vazifa",
     vercel: "#",
