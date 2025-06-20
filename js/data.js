@@ -1,5 +1,10 @@
 export default [
   {
+    title: "5-oy 2-vazifa",
+    github: "https://github.com/devoloperwep/5.2-vazifa",
+    vercel: "https://5-2-vazifa-rho.vercel.app/",
+  },
+  {
     title: "4-oy EXAM FIGMA",
     github: "https://github.com/devoloperwep/4-oy-figma",
     vercel: "https://4-oy-figma.vercel.app/",
