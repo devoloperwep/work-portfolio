@@ -1,5 +1,10 @@
 export default [
   {
+    title: "5-oy 5-vazifa muzic player",
+    github: "https://github.com/devoloperwep/5.5-vazifa",
+    vercel: "https://5-5-vazifa-navy.vercel.app/",
+  },
+  {
     title: "5-oy 3-vazifa",
     github: "https://github.com/devoloperwep/5.3-vazifa",
     vercel: "https://5-3-vazifa-jet.vercel.app/",
