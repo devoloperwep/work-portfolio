@@ -1,5 +1,10 @@
 export default [
   {
+    title: "6-oy 4-vazifa backendga so'rov jo'natish.",
+    github: "https://github.com/devoloperwep/6.4-vazifa",
+    vercel: "https://6-4-vazifa-gamma.vercel.app/",
+  },
+  {
     title: "6-oy 3-vazifa",
     github: "https://github.com/devoloperwep/6.3-vazifa",
     vercel: "https://6-3-vazifa-lovat.vercel.app/",
