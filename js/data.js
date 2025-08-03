@@ -1,6 +1,6 @@
 export default [
   {
-    title: "6-oy 5-vazifa",
+    title: "6-oy 5 amaliyot",
     github: "https://github.com/devoloperwep/6.5-vazifa",
     vercel: "https://6-5-vazifa-seven.vercel.app/",
   },
