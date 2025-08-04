@@ -1,5 +1,10 @@
 export default [
   {
+    title: "context Store",
+    github: "https://github.com/devoloperwep/contextStore",
+    vercel: "https://context-store-jet.vercel.app/",
+  },
+  {
     title: "6-oy 5 amaliyot",
     github: "https://github.com/devoloperwep/6.5-vazifa",
     vercel: "https://6-5-vazifa-seven.vercel.app/",
