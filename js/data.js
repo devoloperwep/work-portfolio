@@ -1,5 +1,10 @@
 export default [
   {
+    title: "food shop",
+    github: "https://github.com/devoloperwep/food-shop",
+    vercel: "https://food-shop-weld.vercel.app/",
+  },
+  {
     title: "context Store",
     github: "https://github.com/devoloperwep/contextStore",
     vercel: "https://context-store-jet.vercel.app/",
