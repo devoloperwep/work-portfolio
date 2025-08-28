@@ -1,5 +1,10 @@
 export default [
   {
+    title: "todo list",
+    github: "https://github.com/devoloperwep/todos-redux",
+    vercel: "https://todos-redux-alpha.vercel.app/",
+  },
+  {
     title: "food shop",
     github: "https://github.com/devoloperwep/food-shop",
     vercel: "https://food-shop-weld.vercel.app/",
