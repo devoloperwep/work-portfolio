@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Login && Logout",
+    github: "https://github.com/devoloperwep/login-logout",
+    vercel: "https://login-logout-black.vercel.app/login",
+  },
+  {
     title: "todo list",
     github: "https://github.com/devoloperwep/todos-redux",
     vercel: "https://todos-redux-alpha.vercel.app/",
